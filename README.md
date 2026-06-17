@@ -13,21 +13,59 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/ALMADADALI/ALMADADALI/refs/heads/main/cms-logo.png" align="right" width="150"/>
 
-I'm **Almadad Ali**, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Security Researcher with a strong track record in penetration testing, malware forensics, and advanced vulnerability research.  
+# 👋 Hello, I'm Karim Abdul Rehan
 
-I am the founder of **[Cyber Mind Space](https://www.youtube.com/@CyberMindSpace)** — a leading cybersecurity YouTube channel with 200K+ subscribers, where I share real-world hacking techniques, professional pentesting tutorials, and industry-grade security knowledge that empowers professionals, students, and enthusiasts worldwide.  
+Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to the open-source community. Explore my repositories to see what I've been working on.
 
-With expertise spanning **offensive security**, **exploit development**, **reverse engineering**, and **web application security**, I aim to bridge the gap between theory and practice — helping individuals and organizations strengthen their defenses against ever-evolving threats.  
+---
+
+## 🚀 About Me
+
+I'm a developer with a passion for clean code, creative problem-solving, and continuous learning. I enjoy collaborating with others, sharing knowledge, and building projects that make an impact.
+
+- 🔭 Currently exploring new technologies and best practices
+- 🌱 Always learning and growing as a developer
+- 💡 Interested in innovative ideas and technical challenges
+- 🤝 Open to collaboration and contributing to meaningful projects
+
+---
+
+## 💼 Skills & Technologies
+
+### Languages
+- JavaScript / TypeScript
+- Python
+- SQL
+- Bash
+- C / C++ / C#
+- HTML
+
+### Tools & Frameworks
+- Git & GitHub
+- Docker
+- REST APIs
+
+### Concepts
+- Full-Stack Development
+- Problem Solving
+- Version Control
+
+---
+
+## 📂 Featured Projects
+
+Here are some of my notable projects:
+
+- **[Codespace](https://github.com/karim-abdul-rehan/Codespace)** - A versatile, multi-language code repository packed with reusable scripts and snippets to simplify everyday development tasks and automate workflows.
 
 ---
 
 <details>
 <summary>💫 More About Me:</summary>
 
-- **Name:** Almadad Ali  
+- **Name:** Karim Abdul Rehan 
 - **From:** India 🇮🇳  
 - **Role:** Cybersecurity Specialist | Ethical Hacker | Security Researcher | Forensics Analyst  
-- **Founder:** Cyber Mind Space (200K+ Subscribers)  
 
 **Specialties:**
 - Web Application Security — OWASP Top 10, API Pentesting, Business Logic Flaws  
@@ -47,8 +85,7 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 - Performing advanced penetration tests on web apps, networks, and APIs  
 - 🛠 Developing custom hacking tools & automation scripts for reconnaissance & exploitation  
 - Deep-diving into Malware Analysis, Reverse Engineering, and APT simulations  
-- Researching Mobile Application Security & Blockchain/Web3 exploitation  
-- Mentoring future cybersecurity professionals through **Cyber Mind Space**  
+- Researching Mobile Application Security & Blockchain/Web3 exploitation 
 - Contributing to open-source security projects & bug bounty programs  
 
   </td>
@@ -63,13 +100,10 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almadadali/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CyberMindSpace) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CyberMindSpace) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/CYBER-MIND-SPACE/61575658943222/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cyber_mind_space?igsh=c2M3bHRidTY1anFh&utm_source=qr) 
-[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/cybermindspace) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cybermindspacee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-abdul-rehan)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KarimAbdulRehan) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/karim_abdul_rehan) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karim.abdul.rehan@outlook.in)
 
 
 # 🛠 Knowledge & Skills
@@ -130,9 +164,9 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Almadadali&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Almadadali&theme=github_dark&hide_border=false" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almadadali&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=karim-abdul-rehan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=karim-abdul-rehan&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-abdul-rehan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -146,7 +180,7 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 <div align="center">
   
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Almadadali&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=karim-abdul-rehan&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
 
