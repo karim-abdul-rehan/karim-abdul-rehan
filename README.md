@@ -37,6 +37,9 @@ I'm a developer with a passion for clean code, creative problem-solving, and con
 - JavaScript / TypeScript
 - Python
 - SQL
+- Bash
+- C / C++ / C#
+- HTML
 
 ### Tools & Frameworks
 - Git & GitHub
@@ -54,10 +57,11 @@ I'm a developer with a passion for clean code, creative problem-solving, and con
 
 Here are some of my notable projects:
 
-- **[Project Name 1](link)** - Brief description of what this project does and the technologies used.
+- **[Codespace](https://github.com/karim-abdul-rehan/Codespace)** - A versatile, multi-language code repository packed with reusable scripts and snippets to simplify everyday development tasks and automate workflows.
+<!--
 - **[Project Name 2](link)** - Brief description of what this project does and the technologies used.
 - **[Project Name 3](link)** - Brief description of what this project does and the technologies used.
-
+-->
 ---
 
 ## 📊 GitHub Statistics
@@ -68,9 +72,12 @@ Here are some of my notable projects:
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](your-linkedin-url)
-- 🐦 [Twitter](your-twitter-url)
-- 📧 Email: your-email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/karim-abdul-rehan)
+- 🐦 [Twitter](https://x.com/KarimAbdulRehan)
+- [Git Lab](https://gitlab.com/karim-abdul-rehan)
+- [Try Hack Me](https://tryhackme.com/p/karim.abdul.rehan)
+- [Hack The Box](https://profile.hackthebox.com/profile/019da48b-7455-7135-9c52-95bdc90fa8a3)
+<!--
 - 🌐 Personal Website: [your-website](your-website-url)
 
 ---
@@ -81,7 +88,7 @@ Here are some of my notable projects:
 - [Blog Post Title](link) - Brief description
 
 ---
-
+-->
 ## ⭐ Support
 
 If you find my projects helpful, feel free to give them a ⭐ and follow my profile!
