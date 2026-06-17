@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi!+I'M+Cyber+Mind+Space+%3C3;Welcome+to+my+Profile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi!+I'M+Karim+Abdul+Rehan+%3C3;Welcome+to+my+Profile" alt="Typing SVG" />
   </a>
 </div>
 
 
 
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/ALMADADALI/ALMADADALI/refs/heads/main/cms-logo.png" align="right" width="150"/>
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Karim_logo.png" align="right" width="150"/>
 
 # 👋 Hello, I'm Karim Abdul Rehan
 
@@ -195,8 +195,8 @@ Here are some of my notable projects:
 <summary>🌐 Visit Us</summary>
 
 <p align="center">
-    🔗 <a href="https://cybermindspace.com/" target="_blank">Cyber Mind Space — Explore Our Cybersecurity World</a>
-          <img src="https://raw.githubusercontent.com/ALMADADALI/ALMADADALI/refs/heads/main/Screenshot%202025-09-09%20214258.png" width="600" alt="Cyber Mind Space Website Preview">
+    🔗 <a href="https://gitlab.com/karim-abdul-rehan" target="_blank"> Gitlab </a>
+          <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Karim_logo.png" width="600" alt="Karim Abdul Rehan">
   </a>
 </p>
 
