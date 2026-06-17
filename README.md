@@ -77,11 +77,12 @@ Here are some of my notable projects:
 - [Git Lab](https://gitlab.com/karim-abdul-rehan)
 - [Try Hack Me](https://tryhackme.com/p/karim.abdul.rehan)
 - [Hack The Box](https://profile.hackthebox.com/profile/019da48b-7455-7135-9c52-95bdc90fa8a3)
-<!--
-- 🌐 Personal Website: [your-website](your-website-url)
+  
+- 🌐 Personal Website: [wordpress](https://karimabdulrehan.wordpress.com/)
+- Blog Site : [Blogspot](https://karim-abdul-rehan.blogspot.com/)
 
 ---
-
+<!--
 ## 📝 Latest Blog Posts
 
 - [Blog Post Title](link) - Brief description
