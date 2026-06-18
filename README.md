@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV1eGQzazBoeWIwaGM4dzE5cG82YmFuM2R3NDQyOGNqYnRhd25nMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dCBZtA2iuNqZW/giphy.gifhttps://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV1eGQzazBoeWIwaGM4dzE5cG82YmFuM2R3NDQyOGNqYnRhd25nMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dCBZtA2iuNqZW/giphy.gif" width="65%" height="auto"/></p>
+  <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Karim_logo.png" width="65%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
 
 
 
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Karim_logo.png" align="right" width="150"/>
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/200w.webp" align="right" width="150"/>
 
 # 👋 Hello, I'm Karim Abdul Rehan
 
