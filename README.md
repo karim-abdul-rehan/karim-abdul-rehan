@@ -11,7 +11,7 @@
 
 
 
-## Hi there <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/200w.webp" align="right" width="150"/>
+## Hi there <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Hi.gif" width="30px"><img src="https://github.com/karim-abdul-rehan/karim-abdul-rehan/raw/refs/heads/main/Scan.gif" align="right" width="150"/>
 
 # 👋 Hello, I'm Karim Abdul Rehan
 
