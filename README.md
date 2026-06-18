@@ -207,4 +207,3 @@ Here are some of my notable projects:
 
 </div>
 
----
