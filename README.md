@@ -11,7 +11,7 @@
 
 
 
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/200w.webp" align="right" width="150"/>
+## Hi there <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/200w.webp" align="right" width="150"/>
 
 # 👋 Hello, I'm Karim Abdul Rehan
 
@@ -91,7 +91,7 @@ Here are some of my notable projects:
   </td>
   <td width="40%" valign="top" align="center">
 
-  <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1229779%2Fb915e799-ad77-4ad5-9477-feb30ef3171d.gif" width="300px" alt="Status GIF" />
+  <img src="https://github.com/karim-abdul-rehan/karim-abdul-rehan/raw/refs/heads/main/white_hat.webp" width="300px" alt="Status GIF" />
 
   </td>
 </tr>
