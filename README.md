@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Karim_logo.png" width="65%" height="auto"/></p>
 
@@ -190,7 +190,7 @@ Here are some of my notable projects:
 </p>
 
 ---
-
+<!--
 <details>
 <summary>🌐 Visit Us</summary>
 
@@ -201,11 +201,10 @@ Here are some of my notable projects:
 </p>
 
 </details>
-
----
+-->
 
 ![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
 
 </div>
 
-
+---
