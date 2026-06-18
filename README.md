@@ -203,7 +203,7 @@ Here are some of my notable projects:
 </details>
 -->
 
-![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
+![Snake animation](https://github.com/karim-abdul-rehan/karim-abdul-rehan/raw/refs/heads/main/github-snake-dark.svg)
 
 </div>
 
