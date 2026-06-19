@@ -165,9 +165,9 @@ Here are some of my notable projects:
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karim-abdul-rehan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=karim-abdul-rehan&theme=github_dark&hide_border=false" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-abdul-rehan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=karim-abdul-rehan&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=karim-abdul-rehan&theme=cobalt&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=karim-abdul-rehan&theme=cobalt&hide_border=false" alt="Top Languages" />
 
 </td>
 <td width="45%" valign="top" align="center">
