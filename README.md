@@ -178,10 +178,22 @@ Here are some of my notable projects:
 </tr>
 </table>
 
+---
+
 <div align="center">
-  
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=karim-abdul-rehan&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karim-abdul-rehan&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=karim-abdul-rehan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
