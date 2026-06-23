@@ -85,8 +85,7 @@ Here are some of my notable projects:
 - Performing advanced penetration tests on web apps, networks, and APIs  
 - 🛠 Developing custom hacking tools & automation scripts for reconnaissance & exploitation  
 - Deep-diving into Malware Analysis, Reverse Engineering, and APT simulations  
-- Researching Mobile Application Security & Blockchain/Web3 exploitation  
-- Mentoring future cybersecurity professionals through **Cyber Mind Space**  
+- Researching Mobile Application Security & Blockchain/Web3 exploitation 
 - Contributing to open-source security projects & bug bounty programs  
 
   </td>
