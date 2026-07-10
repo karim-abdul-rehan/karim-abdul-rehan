@@ -1,5 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Karim_logo.png" width="65%" height="auto"/></p>
 
@@ -101,11 +102,14 @@ Here are some of my notable projects:
 
 
 ## 🌐 Socials:
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ6ajF1NXliNHJtcTNtYWw2Y2liamk0bXZjcm9rM3Z3Z2V3bmM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-abdul-rehan)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KarimAbdulRehan) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/karim_abdul_rehan) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:notfound-noreply@google.com)
 
+---
 
 # 🛠 Knowledge & Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
@@ -174,9 +178,17 @@ Here are some of my notable projects:
 
 <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Karim_logo.png" width="400px" alt="GIF" />
 
+[![Views](https://komarev.com/ghpvc/?username=stackmatrixdev&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/stackmatrixdev)
 </td>
 </tr>
 </table>
+
+---
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karim-abdul-rehan&theme=dracula&hide_border=true&area=true" width="100%" />
+</div>
 
 ---
 
