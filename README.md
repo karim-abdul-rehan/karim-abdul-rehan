@@ -178,7 +178,7 @@ Here are some of my notable projects:
 
 <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Karim_logo.png" width="400px" alt="GIF" />
 
-[![Views](https://komarev.com/ghpvc/?username=karim-abdul-rehan&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/stackmatrixdev)
+[![Views](https://komarev.com/ghpvc/?username=karim-abdul-rehan&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/karim-abdul-rehan)
 </td>
 </tr>
 </table>
