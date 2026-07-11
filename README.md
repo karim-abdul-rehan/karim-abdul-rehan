@@ -101,7 +101,7 @@ Here are some of my notable projects:
 
 
 
-## 🌐 Socials:
+## 🌐 Socials: [![Views](https://komarev.com/ghpvc/?username=karim-abdul-rehan&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/karim-abdul-rehan)
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ6ajF1NXliNHJtcTNtYWw2Y2liamk0bXZjcm9rM3Z3Z2V3bmM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-abdul-rehan)
@@ -178,7 +178,6 @@ Here are some of my notable projects:
 
 <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Karim_logo.png" width="400px" alt="GIF" />
 
-[![Views](https://komarev.com/ghpvc/?username=karim-abdul-rehan&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/karim-abdul-rehan)
 </td>
 </tr>
 </table>
