@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/Karim_logo.png" width="65%" height="auto"/></p>
+  <img src="https://raw.githubusercontent.com/karim-abdul-rehan/karim-abdul-rehan/refs/heads/main/2ba25015-0915-40cc-9bcc-56854512395b.png" width="65%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
